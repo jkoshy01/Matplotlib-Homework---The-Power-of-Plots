@@ -12,17 +12,18 @@ Please follow these instructions:
 
 * Use the cleaned data for the remaining steps.
 
-* Create a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
+* Create a summary statistics table consisting the following  mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
-* Then you will generate a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that will show  the number of total mice for each treatment regimen throughout the course of the study.
+* Then you will generate a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that will show the number of total mice for each treatment regimen throughout the course of the study.
 
-  * **NOTE:** These plots should look identical.
+  * Side note: These plots should look similair.
 
-* Generate a pie plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the distribution of female or male mice in the study.
+*  Create a pie plot that uses both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` which shows the distribution of female or male mice in the study.
 
-  * **NOTE:** These plots should look identical.
+  * Side note: These plots should look similair.
 
-* Calculate the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Calculate the quartiles and IQR and quantitatively determine if there are any potential outliers across all four treatment regimens.
+
+*  Calculate the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Calculate the quartiles and IQR and quantitatively determine if there are any potential outliers across all four treatment regimens.
 
 * Using Matplotlib, generate a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
 
