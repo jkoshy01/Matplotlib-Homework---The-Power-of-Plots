@@ -23,15 +23,15 @@ Please follow these instructions:
   * Side note: These plots should look similair.
 
 
-*  Calculate the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Calculate the quartiles and IQR and quantitatively determine if there are any potential outliers across all four treatment regimens.
+*  You should be able to calculate the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Then you will calculate the "quartiles and IQR and quantitatively determine if there are any potential outliers across all four treatment regimens."
 
-* Using Matplotlib, generate a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
+* By using the Matplotlib, create a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
 
-  **Hint**: All four box plots should be within the same figure. Use this [Matplotlib documentation page](https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py) for help with changing the style of the outliers.
+  **Tip**: All four box plots should be within the same figure. Use this  resource [Matplotlib documentation page](https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py) for help with changing the style of the outliers.
 
-* Select a mouse that was treated with Capomulin and generate a line plot of tumor volume vs. time point for that mouse.
+* Then you will select a mouse that was treated with Capomulin and generate a line plot of tumor volume vs. time point for that mouse.
 
-* Generate a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
+* Create a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
 
 * Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
 
@@ -43,15 +43,7 @@ Here are some final considerations:
 
 * See the [starter workbook](Pymaceuticals/pymaceuticals_starter.ipynb) for help on what modules to import and expected format of the notebook.
 
-## Hints and Considerations
 
-* Be warned: These are very challenging tasks. Be patient with yourself as you trudge through these problems. They will take time and there is no shame in fumbling along the way. Data visualization is equal parts exploration, equal parts resolution.
-
-* You have been provided a starter notebook. Use the code comments as a reminder of steps to follow as you complete the assignment.
-
-* Don't get bogged down in small details. Always focus on the big picture. If you can't figure out how to get a label to show up correctly, come back to it. Focus on getting the core skeleton of your notebook complete. You can always revisit old problems.
-
-* While you are trying to complete this assignment, feel encouraged to constantly refer to Stack Overflow and the Pandas documentation. These are needed tools in every data analyst's tool belt.
 
 * Remember, there are many ways to approach a data problem. The key is to break up your task into micro tasks. Try answering questions like:
 
