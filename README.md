@@ -8,13 +8,13 @@ As a senior data analyst at the company, you've been given access to the complet
 
 Please follow these instructions:
 
-  Before beginning the analysis, check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID.
+  Before you start your analysis, check the data for any mouse ID that has a duplicate time points and remove any data that has the mouse ID.
 
 * Use the cleaned data for the remaining steps.
 
-* Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
+* Create a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
-* Generate a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows  the number of total mice for each treatment regimen throughout the course of the study.
+* Then you will generate a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that will show  the number of total mice for each treatment regimen throughout the course of the study.
 
   * **NOTE:** These plots should look identical.
 
