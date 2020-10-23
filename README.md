@@ -45,18 +45,15 @@ Here are some considerations:
 
 
 
-* Remember, there are many ways to approach a data problem. The key is to break up your task into micro tasks. Try answering questions like:
+*  there are many ways to approach a data problem. The key is to break up your task into small parts. Try answering questions like:
 
-  * How does my DataFrame need to be structured for me to have the right _x_-axis and _y_-axis?
+  
 
-  * How do I build a basic scatter plot?
+  " How do I build a basic scatter plot?
 
   * How do I add a label to that scatter plot?
 
-  * Where would the labels for that scatter plot come from?
+  * Where would the labels for that scatter plot come from?"
 
-  Again, don't let the magnitude of a programming task scare you off. Ultimately, every programming problem boils down to a handful of bite-sized tasks.
-
-* Get help when you need it! There is never any shame in asking. But, as always, ask a _specific_ question. You'll never get a great answer to "I'm lost."
-
-
+  
+    This assignment can be challeging so try to get some help ! There is never any shame in asking. They are also resources that can guide you.
