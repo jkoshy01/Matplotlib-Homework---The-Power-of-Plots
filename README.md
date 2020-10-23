@@ -41,7 +41,7 @@ Here are some considerations:
 
 * Maker sure you use the proper labeling of your plots, to include properties such as: plot titles, axis labels, legend labels, _x_-axis and _y_-axis limits, etc.
 
-* Use the starter workbook](Pymaceuticals/pymaceuticals_starter.ipynb) for help on what modules to import and expected format of the notebook.
+* Use the starter workbook](Pymaceuticals/pymaceuticals_starter.ipynb) tthat will help you create the modules to import and expected format of the notebook.
 
 
 
